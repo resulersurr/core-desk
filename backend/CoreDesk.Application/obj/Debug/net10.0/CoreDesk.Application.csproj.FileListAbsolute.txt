@@ -1,0 +1,15 @@
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\bin\Debug\net10.0\CoreDesk.Application.deps.json
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\bin\Debug\net10.0\CoreDesk.Application.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\bin\Debug\net10.0\CoreDesk.Application.pdb
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\bin\Debug\net10.0\CoreDesk.Domain.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\bin\Debug\net10.0\CoreDesk.Domain.pdb
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.csproj.AssemblyReference.cache
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.AssemblyInfoInputs.cache
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.AssemblyInfo.cs
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.csproj.CoreCompileInputs.cache
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.DB968AAC.Up2Date
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\refint\CoreDesk.Application.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\CoreDesk.Application.pdb
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Application\obj\Debug\net10.0\ref\CoreDesk.Application.dll

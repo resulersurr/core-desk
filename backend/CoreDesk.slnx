@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CoreDesk.Api/CoreDesk.Api.csproj" />
+  <Project Path="CoreDesk.Application/CoreDesk.Application.csproj" />
+  <Project Path="CoreDesk.Domain/CoreDesk.Domain.csproj" />
+  <Project Path="CoreDesk.Infrastructure/CoreDesk.Infrastructure.csproj" />
+</Solution>

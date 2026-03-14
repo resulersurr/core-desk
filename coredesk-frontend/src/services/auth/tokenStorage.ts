@@ -1,0 +1,19 @@
+const ACCESS_TOKEN_KEY = "coredesk_access_token";
+
+export const tokenStorage = {
+  getToken(): string | null {
+    return localStorage.getItem(ACCESS_TOKEN_KEY);
+  },
+
+  setToken(token: string) {
+    localStorage.setItem(ACCESS_TOKEN_KEY, token);
+  },
+
+  clearToken() {
+    localStorage.removeItem(ACCESS_TOKEN_KEY);
+  },
+
+  isAuthenticated(): boolean {
+    return !!localStorage.getItem(ACCESS_TOKEN_KEY);
+  },
+};

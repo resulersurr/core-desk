@@ -1,0 +1,11 @@
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\bin\Debug\net10.0\CoreDesk.Domain.deps.json
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\bin\Debug\net10.0\CoreDesk.Domain.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\bin\Debug\net10.0\CoreDesk.Domain.pdb
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\CoreDesk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\CoreDesk.Domain.AssemblyInfoInputs.cache
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\CoreDesk.Domain.AssemblyInfo.cs
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\CoreDesk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\CoreDesk.Domain.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\refint\CoreDesk.Domain.dll
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\CoreDesk.Domain.pdb
+C:\Users\Resul Ersürer\Desktop\coredesk\backend\CoreDesk.Domain\obj\Debug\net10.0\ref\CoreDesk.Domain.dll
