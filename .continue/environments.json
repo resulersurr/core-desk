@@ -1,0 +1,7 @@
+[
+  {
+    "install": "cd coredesk-frontend && npm install && cd ../backend && dotnet restore",
+    "start": "cd backend && docker-compose up -d && cd CoreDesk.Api && dotnet run & cd ../../coredesk-frontend && npm run dev",
+    "resourceSize": "medium"
+  }
+]
